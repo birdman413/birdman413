@@ -9,11 +9,24 @@
 
 </div>
 
-<div align="center">
-
-<img src="./assets/enterprise-motto-v1.svg" width="100%" alt="勇踏前人未至之境 — To boldly go where no man has gone before.">
-
-</div>
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║ STARSHIP RAMI                                      NCC-RAMI-01     ║
+╠══[ EXPLORATION DIRECTIVE ]═════════════════════════════════════════╣
+║                                                                    ║
+║                 「 勇 踏 前 人 未 至 之 境 」                       ║
+║                                                                    ║
+║          TO BOLDLY GO WHERE NO MAN HAS GONE BEFORE.                ║
+║                                                                    ║
+║                         ___________                                ║
+║              __________/___________\__________                     ║
+║      =======<_______________________________>======>                ║
+║                         \___||___/                                  ║
+║                    ========||========                              ║
+║                                                                    ║
+║ MISSION ● ACTIVE      COURSE ▸ UNKNOWN      SIGNAL ▰▰▰▰▰▰▰▱       ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
 ## `GAME MENU｜遊戲選單`
 
