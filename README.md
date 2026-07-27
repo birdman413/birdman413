@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/rami-16bit-v3.svg" width="100%" alt="Rami 16-bit player screen">
+<img src="./assets/rami-16bit-v5.svg" width="100%" alt="Rami 16-bit player screen">
 
 ![Status](https://img.shields.io/badge/STATUS-EXPLORING-2de2e6?style=for-the-badge&labelColor=090d1a)
 ![Level](https://img.shields.io/badge/LEVEL-01-ffd166?style=for-the-badge&labelColor=090d1a)
@@ -11,9 +11,7 @@
 
 <div align="center">
 
-### `「勇踏前人未至之境」`
-
-*To boldly go where no man has gone before.*
+<img src="./assets/enterprise-motto-v1.svg" width="100%" alt="勇踏前人未至之境 — To boldly go where no man has gone before.">
 
 </div>
 
@@ -23,7 +21,6 @@
   <tr>
     <td align="center">▶<br><b>START</b><br><sub>台灣出發</sub></td>
     <td align="center">◆<br><b>QUEST</b><br><sub>持續創造</sub></td>
-    <td align="center">▣<br><b>CLASS</b><br><sub>???</sub></td>
     <td align="center">★<br><b>SCORE</b><br><sub>000010</sub></td>
   </tr>
 </table>
@@ -44,7 +41,7 @@
 
 ## `ACHIEVEMENTS｜成就`
 
-`▣ PROFILE CREATED`　`□ FIRST PROJECT`　`□ CLASS UNLOCKED`
+`▣ PROFILE CREATED`　`□ FIRST PROJECT`
 
 <div align="center">
 
