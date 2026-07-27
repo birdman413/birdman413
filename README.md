@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/rami-16bit-v2.svg" width="100%" alt="Rami 16-bit player screen">
+<img src="./assets/rami-16bit-v3.svg" width="100%" alt="Rami 16-bit player screen">
 
 ![Status](https://img.shields.io/badge/STATUS-EXPLORING-2de2e6?style=for-the-badge&labelColor=090d1a)
 ![Level](https://img.shields.io/badge/LEVEL-01-ffd166?style=for-the-badge&labelColor=090d1a)
@@ -14,8 +14,6 @@
 ### `「勇踏前人未至之境」`
 
 *To boldly go where no man has gone before.*
-
-<sub>— [《星際爭霸戰》格言：前人未至之境](https://zh.wikipedia.org/zh-tw/%E5%89%8D%E4%BA%BA%E6%9C%AA%E8%87%B3%E4%B9%8B%E5%A2%83)</sub>
 
 </div>
 
