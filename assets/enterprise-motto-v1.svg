@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Rami exploration directive</title>
+  <desc id="desc">A 16-bit starship command display presenting the motto To boldly go where no man has gone before.</desc>
+
+  <rect width="960" height="220" fill="#090d1a"/>
+  <rect x="8" y="8" width="944" height="204" fill="none" stroke="#22c55e" stroke-width="8"/>
+  <rect x="24" y="24" width="912" height="172" fill="#0b1220" stroke="#2de2e6" stroke-width="4"/>
+
+  <!-- stars and warp traces -->
+  <g fill="#86efac">
+    <rect x="56" y="78" width="4" height="4"/><rect x="112" y="152" width="4" height="4"/>
+    <rect x="188" y="70" width="8" height="4"/><rect x="690" y="76" width="4" height="4"/>
+    <rect x="840" y="146" width="8" height="4"/><rect x="900" y="82" width="4" height="4"/>
+  </g>
+  <g fill="#2de2e6">
+    <rect x="48" y="108" width="84" height="3"/><rect x="72" y="132" width="116" height="3"/>
+    <rect x="792" y="94" width="116" height="3"/><rect x="824" y="118" width="72" height="3"/>
+  </g>
+
+  <!-- command header -->
+  <rect x="36" y="34" width="888" height="26" fill="#052e16"/>
+  <rect x="36" y="34" width="16" height="26" fill="#4ade80"/>
+  <rect x="908" y="34" width="16" height="26" fill="#4ade80"/>
+  <text x="64" y="52" fill="#86efac" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2">STARSHIP RAMI // EXPLORATION DIRECTIVE</text>
+  <text x="894" y="52" text-anchor="end" fill="#4ade80" font-family="monospace" font-size="12" font-weight="700">NCC-RAMI-01</text>
+
+  <!-- motto -->
+  <text x="480" y="104" text-anchor="middle" fill="#ffd166" font-family="monospace" font-size="30" font-weight="900" letter-spacing="3">「勇踏前人未至之境」</text>
+  <text x="480" y="137" text-anchor="middle" fill="#f8f7ff" font-family="monospace" font-size="18" font-style="italic">To boldly go where no man has gone before.</text>
+
+  <!-- pixel starship -->
+  <g transform="translate(700 152)">
+    <rect x="0" y="12" width="88" height="8" fill="#86efac"/>
+    <rect x="16" y="4" width="56" height="24" fill="#4ade80"/>
+    <rect x="72" y="10" width="40" height="12" fill="#22c55e"/>
+    <rect x="104" y="6" width="24" height="8" fill="#2de2e6"/>
+    <rect x="104" y="20" width="24" height="8" fill="#2de2e6"/>
+    <rect x="40" y="28" width="48" height="6" fill="#16a34a"/>
+    <rect x="88" y="30" width="32" height="4" fill="#4ade80"/>
+  </g>
+
+  <!-- status strip -->
+  <rect x="36" y="176" width="620" height="10" fill="#27305b"/>
+  <rect x="36" y="176" width="408" height="10" fill="#16a34a"/>
+  <text x="48" y="170" fill="#86efac" font-family="monospace" font-size="10" font-weight="700">MISSION STATUS // ACTIVE</text>
+  <text x="912" y="188" text-anchor="end" fill="#86efac" font-family="monospace" font-size="10">COURSE // UNKNOWN</text>
+</svg>
