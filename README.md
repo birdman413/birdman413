@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/rami-16bit.svg" width="100%" alt="Rami 16-bit player screen">
+<img src="./assets/rami-16bit-v2.svg" width="100%" alt="Rami 16-bit player screen">
 
 ![Status](https://img.shields.io/badge/STATUS-EXPLORING-2de2e6?style=for-the-badge&labelColor=090d1a)
 ![Level](https://img.shields.io/badge/LEVEL-01-ffd166?style=for-the-badge&labelColor=090d1a)
