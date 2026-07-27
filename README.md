@@ -9,6 +9,16 @@
 
 </div>
 
+<div align="center">
+
+### `「勇踏前人未至之境」`
+
+*To boldly go where no man has gone before.*
+
+<sub>— [《星際爭霸戰》格言：前人未至之境](https://zh.wikipedia.org/zh-tw/%E5%89%8D%E4%BA%BA%E6%9C%AA%E8%87%B3%E4%B9%8B%E5%A2%83)</sub>
+
+</div>
+
 ## `GAME MENU｜遊戲選單`
 
 <table>
