@@ -5,7 +5,7 @@
 ║                                                          ║
 ║                      R A M I                             ║
 ║                                                          ║
-║              ▓▒░  P L A Y E R   0 1  ░▒▓               ║
+║              ▓▒░  P L A Y E R   0 1  ░▒▓                 ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -61,10 +61,10 @@ Instead of choosing a label first, I am discovering my path through every new at
 
 ```text
 ┌──────────────────────────────────────────┐
-│  SLOT 01  [ ??? ]     尚待解鎖 / LOCKED  │
-│  SLOT 02  [ ??? ]     尚待解鎖 / LOCKED  │
-│  SLOT 03  [ ??? ]     尚待解鎖 / LOCKED  │
-│  SLOT 04  [ ??? ]     尚待解鎖 / LOCKED  │
+│  SLOT 01  [ ??? ]     尚待解鎖 / LOCKED   │
+│  SLOT 02  [ ??? ]     尚待解鎖 / LOCKED   │
+│  SLOT 03  [ ??? ]     尚待解鎖 / LOCKED   │
+│  SLOT 04  [ ??? ]     尚待解鎖 / LOCKED   │
 └──────────────────────────────────────────┘
 ```
 
@@ -108,7 +108,7 @@ A short English description.
 ╭──────────────────────────────────────────╮
 │                                          │
 │       THANK YOU FOR VISITING!            │
-│       謝謝你來到我的冒險起點             │
+│       謝謝你來到我的冒險起點               │
 │                                          │
 │            [ SAVE & CONTINUE ]           │
 │                                          │
